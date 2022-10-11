@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>cng (139).jpg</filename>
+	<path>D:\pixel\CNG\images\cng (139).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>903</xmin>
+			<ymin>18</ymin>
+			<xmax>1300</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>124</ymin>
+			<xmax>935</xmax>
+			<ymax>867</ymax>
+		</bndbox>
+	</object>
+</annotation>

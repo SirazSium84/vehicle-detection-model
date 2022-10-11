@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>launch (104).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Launch\images\launch (104).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>803</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>launch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>315</ymin>
+			<xmax>856</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

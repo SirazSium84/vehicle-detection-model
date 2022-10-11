@@ -1,0 +1,50 @@
+<annotation>
+	<folder>mixed</folder>
+	<filename>mixed (495).jpg</filename>
+	<path>E:\DataSetForYOLO\Annotation\Sabbir mixed\mixed\mixed (495).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>836</xmin>
+			<ymin>1551</ymin>
+			<xmax>2217</xmax>
+			<ymax>3098</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1950</xmin>
+			<ymin>1570</ymin>
+			<xmax>2455</xmax>
+			<ymax>2717</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>1465</ymin>
+			<xmax>974</xmax>
+			<ymax>2670</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>mixed</folder>
+	<filename>mixed (519).jpg</filename>
+	<path>E:\DataSetForYOLO\Annotation\Sabbir mixed\mixed\mixed (519).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leguna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1490</xmin>
+			<ymin>914</ymin>
+			<xmax>2879</xmax>
+			<ymax>1764</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leguna</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3129</xmin>
+			<ymin>945</ymin>
+			<xmax>4608</xmax>
+			<ymax>1840</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1072</ymin>
+			<xmax>1963</xmax>
+			<ymax>2364</ymax>
+		</bndbox>
+	</object>
+</annotation>

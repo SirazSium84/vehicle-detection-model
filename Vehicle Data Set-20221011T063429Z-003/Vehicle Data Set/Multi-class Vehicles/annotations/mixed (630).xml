@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mixed (630).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Multi Class Vehicle\images\mixed (630).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2021</xmin>
+			<ymin>286</ymin>
+			<xmax>4236</xmax>
+			<ymax>2116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>596</ymin>
+			<xmax>2316</xmax>
+			<ymax>2046</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4236</xmin>
+			<ymin>111</ymin>
+			<xmax>4608</xmax>
+			<ymax>1256</ymax>
+		</bndbox>
+	</object>
+</annotation>

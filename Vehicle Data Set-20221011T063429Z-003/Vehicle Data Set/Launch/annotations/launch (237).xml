@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Launch</folder>
+	<filename>launch (237).jpg</filename>
+	<path>/home/student/Desktop/Launch/launch (237).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>261</ymin>
+			<xmax>814</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>launch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>113</ymin>
+			<xmax>807</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

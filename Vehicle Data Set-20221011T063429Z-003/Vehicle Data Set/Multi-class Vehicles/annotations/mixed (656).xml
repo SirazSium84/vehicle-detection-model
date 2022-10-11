@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mixed (656).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Multi Class Vehicle\images\mixed (656).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2662</xmin>
+			<ymin>679</ymin>
+			<xmax>4594</xmax>
+			<ymax>2487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1657</xmin>
+			<ymin>1290</ymin>
+			<xmax>2239</xmax>
+			<ymax>1667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leguna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2150</xmin>
+			<ymin>769</ymin>
+			<xmax>2739</xmax>
+			<ymax>1362</ymax>
+		</bndbox>
+	</object>
+</annotation>

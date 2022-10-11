@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Rickshaw (closed)</folder>
+	<filename>rickshaw (358).jpg</filename>
+	<path>F:\YoLo\Annotations\Sabbir Rickshaw\Rickshaw (closed)\rickshaw (358).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4433</width>
+		<height>3172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>127</ymin>
+			<xmax>3837</xmax>
+			<ymax>2840</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>955</ymin>
+			<xmax>895</xmax>
+			<ymax>1840</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2583</xmin>
+			<ymin>973</ymin>
+			<xmax>4433</xmax>
+			<ymax>1898</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mixed (868).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Multi Class Vehicle\images\mixed (868).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>easybike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>575</ymin>
+			<xmax>2716</xmax>
+			<ymax>4093</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2575</xmin>
+			<ymin>1248</ymin>
+			<xmax>3436</xmax>
+			<ymax>2593</ymax>
+		</bndbox>
+	</object>
+</annotation>

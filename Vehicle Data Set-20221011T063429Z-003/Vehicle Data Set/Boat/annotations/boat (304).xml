@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Boat</folder>
+	<filename>boat (304).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Boat\boat (304).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2712</width>
+		<height>1802</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>816</ymin>
+			<xmax>1740</xmax>
+			<ymax>1684</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1118</xmin>
+			<ymin>742</ymin>
+			<xmax>2157</xmax>
+			<ymax>1498</ymax>
+		</bndbox>
+	</object>
+</annotation>

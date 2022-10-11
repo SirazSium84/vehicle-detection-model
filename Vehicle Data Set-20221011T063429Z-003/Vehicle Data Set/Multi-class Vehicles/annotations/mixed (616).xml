@@ -1,0 +1,50 @@
+<annotation>
+	<folder>mixed</folder>
+	<filename>mixed (616).jpg</filename>
+	<path>F:\YoLo\Annotations\Sabbir mixed\mixed\mixed (616).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1036</xmin>
+			<ymin>991</ymin>
+			<xmax>3796</xmax>
+			<ymax>2561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1206</ymin>
+			<xmax>1486</xmax>
+			<ymax>2400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3391</xmin>
+			<ymin>66</ymin>
+			<xmax>4608</xmax>
+			<ymax>2311</ymax>
+		</bndbox>
+	</object>
+</annotation>

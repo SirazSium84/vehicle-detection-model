@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>rickshaw (108).jpg</filename>
+	<path>D:\pixel\3.Rickshaw\images\rickshaw (108).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>25</ymin>
+			<xmax>576</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>77</ymin>
+			<xmax>576</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

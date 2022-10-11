@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mixed (550).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Multi Class Vehicle\images\mixed (550).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1055</width>
+		<height>1526</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>835</ymin>
+			<xmax>545</xmax>
+			<ymax>1084</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wheelbarrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>630</ymin>
+			<xmax>831</xmax>
+			<ymax>989</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wheelbarrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>695</xmin>
+			<ymin>595</ymin>
+			<xmax>1008</xmax>
+			<ymax>966</ymax>
+		</bndbox>
+	</object>
+</annotation>

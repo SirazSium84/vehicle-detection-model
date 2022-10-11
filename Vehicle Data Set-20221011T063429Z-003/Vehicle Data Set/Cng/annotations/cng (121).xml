@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>cng (121).jpg</filename>
+	<path>C:\Users\Merida\Documents\GitHub\CNG\images\cng (121).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>1288</ymin>
+			<xmax>1042</xmax>
+			<ymax>1954</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1141</xmin>
+			<ymin>768</ymin>
+			<xmax>4159</xmax>
+			<ymax>3041</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>nakib mixed</folder>
+	<filename>mixed (436).jpg</filename>
+	<path>D:\14th semester\Labeling\New folder\nakib mixed\mixed (436).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2203</xmin>
+			<ymin>2272</ymin>
+			<xmax>2592</xmax>
+			<ymax>2809</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>889</xmin>
+			<ymin>1772</ymin>
+			<xmax>2289</xmax>
+			<ymax>3100</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1843</ymin>
+			<xmax>403</xmax>
+			<ymax>2435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>1715</ymin>
+			<xmax>1067</xmax>
+			<ymax>2293</ymax>
+		</bndbox>
+	</object>
+</annotation>

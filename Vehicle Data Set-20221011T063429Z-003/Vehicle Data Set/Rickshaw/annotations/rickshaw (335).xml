@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>rickshaw (335).jpg</filename>
+	<path>D:\pixel\3.Rickshaw\images\rickshaw (335).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1727</xmin>
+			<ymin>182</ymin>
+			<xmax>3314</xmax>
+			<ymax>2432</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2954</xmin>
+			<ymin>344</ymin>
+			<xmax>3330</xmax>
+			<ymax>1019</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>61</ymin>
+			<xmax>1998</xmax>
+			<ymax>2432</ymax>
+		</bndbox>
+	</object>
+</annotation>

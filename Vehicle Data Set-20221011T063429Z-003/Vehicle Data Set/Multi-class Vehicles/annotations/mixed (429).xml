@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mixed (429).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Multi Class Vehicle\images\mixed (429).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1750</ymin>
+			<xmax>1175</xmax>
+			<ymax>3966</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leguna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>1229</ymin>
+			<xmax>2367</xmax>
+			<ymax>3107</ymax>
+		</bndbox>
+	</object>
+</annotation>
